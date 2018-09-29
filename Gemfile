@@ -12,6 +12,7 @@ gem 'rails', '5.1.4'
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 # Use Puma as the app server
 gem 'puma',         '3.9.1'
+gem 'bcrypt',         '3.1.12'
 gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
